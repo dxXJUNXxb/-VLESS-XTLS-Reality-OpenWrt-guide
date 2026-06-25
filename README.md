@@ -55,8 +55,9 @@ Open an **Issue** or submit a **PR** directly. All technical contributions are a
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution‑ShareAlike 4.0 International License](LICENSE).  
-You are free to share and adapt, as long as you give appropriate credit and distribute under the same license.
+This work is licensed under the [MIT License](LICENSE).
+
+> **Additional note**: While the MIT License covers the text, we request that any public adaptations or translations credit the original author and link back to this repository.
 
 ---
 
